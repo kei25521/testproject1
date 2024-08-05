@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -175,6 +175,45 @@
     <footer class="footer">
         <p>Follow me on social media</p>
         <a href="#">Twitter</a> | <a href="#">LinkedIn</a> | <a href="#">GitHub</a>
+    </footer>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ポートフォリオ</title>
+    <link rel="stylesheet" href="/Users/honmakei/testproject1-1/styles.css">
+</head>
+<body>
+    <header>
+        <h1>私のポートフォリオ</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>本間　慧
+        2005年5月21日
+        </p>
+    </section>
+    <section id="projects">
+        <h2></h2>
+        <p></p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>連絡先</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 私のポートフォリオ</p>
     </footer>
 </body>
 </html>
